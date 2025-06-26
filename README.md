@@ -24,16 +24,18 @@ A simple Flask web application that takes either a **Student ID** or **Course ID
 
 ## 📁 Project Structure
 
+```
 mad1_lab4/
 ├── app.py
 ├── data.csv
 ├── static/
 │   └── plot.png
-└── templates/
-├── index.html
-├── error.html
-├── student.html
-└── course.html
+├── templates/
+│   ├── index.html
+│   ├── error.html
+│   ├── student.html
+│   └── course.html
+
 
 
 ---
